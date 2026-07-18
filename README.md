@@ -1,7 +1,6 @@
 # Simulink Brake Pedal Simulation
 
-This project is a MATLAB & Simulink simulation developed to model a brake pedal system. The objective is to practice simulation modeling, MATLAB scripting, and workspace integration while improving engineering design skills.
-
+This project aims to develop an interactive car simulation dashboard using MATLAB and Simulink. It includes vehicle system modeling, dashboard visualization, and MATLAB script integration. The project is actively under development, with new simulation modules and features being added over time.
 The repository includes:
 
 * Simulink model (`.slx`)
